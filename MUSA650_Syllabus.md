@@ -56,18 +56,18 @@ This course relies on use of Python and various related packages. The class will
 
 | Class #                | Topic                            | 
 | ---------------------- | ---------------------------------| 
-| Week 1                 | Overview of remote sensing and satellite imagery appications | |
-| Week 2                 | Fundamentals of machine learning from a remote sensing perspective | |
-| Week 3                 | Data preparation: imaging feature extraction, visualization, normalization, data harmonization |  |
-| Week 4                 | Dimensionality reduction and unsupervised learning |  |
-| Week 5                 | Supervised learning for land cover classification, Part 1: training, cross-validation, method and model selection, parameter optimization |  |
-| Week 6                 | Supervised learning for land cover classification, Part 2: validation, evaluation, multi-class classification |  |
-| Week 7                 | Ensemble methods in machine learning. Case studies: DSTL and EuroSat challenges |  |
-| Week 8                 | Fundamentals of deep learning |  |
-| Week 9                 | Recent advances in deep learning: literature review and paper discussion |  |
-| Week 10                | Convolutional neural networks for image classification; UNet architecture for semantic segmentation  |  |
-| Week 11                | Case studies: DSTL and EuroSat challenges revisited |   |
-| Week 12                | Case study: predictive modeling using deep learning |  |
-| Week 13                | Big data and machine learning: techniques, tools, challenges, future directions | |
-| Week 14                | Project reviews | 
+| Week 1                 | Overview of remote sensing and satellite imagery appications | 
+| Week 2                 | Fundamentals of machine learning from a remote sensing perspective | 
+| Week 3                 | Data preparation: imaging feature extraction, visualization, normalization, data harmonization |  
+| Week 4                 | Dimensionality reduction and unsupervised learning |  
+| Week 5                 | Supervised learning for land cover classification, Part 1: training, cross-validation, method and model selection, parameter optimization |  
+| Week 6                 | Supervised learning for land cover classification, Part 2: validation, evaluation, multi-class classification | 
+| Week 7                 | Ensemble methods in machine learning. Case studies: DSTL and EuroSat challenges |  
+| Week 8                 | Fundamentals of deep learning |  
+| Week 9                 | Recent advances in deep learning: literature review and paper discussion |  
+| Week 10                | Convolutional neural networks for image classification; UNet architecture for semantic segmentation  |  
+| Week 11                | Case studies: DSTL and EuroSat challenges revisited |   
+| Week 12                | Case study: predictive modeling using deep learning |  
+| Week 13                | Big data and machine learning: techniques, tools, challenges, future directions | 
+| Week 14                | Project reviews |
 
