@@ -15,9 +15,10 @@ Thursday from 8:30AM to 11:30PM
 
 - **Instructor**: Friday 3PM to 5PM on Zoom 
 
-Join Zoom Meeting
 https://pennmedicine.zoom.us/j/98465605536?pwd=aTNHMHVIZEowWHJoeTRubDZEQytCdz09
+
 Meeting ID: 984 6560 5536
+
 Passcode: MUSA650
 
 ### Course Websites
