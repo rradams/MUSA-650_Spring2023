@@ -4,34 +4,26 @@
 
 ### Class
 
-Monday from 10:15AM to 1:15PM
-
-- Jan 12 to Jan 24:  Online on Zoom (Online class links will be announced weekly on Piazza and GitHub pages of the class)
-- After Jan 24:      In person
-
-This term we will be using Piazza for class discussion. The system is highly catered to getting you help fast and efficiently from classmates, the TA, and myself. Rather than emailing questions to the teaching staff, I encourage you to post your questions on Piazza.
-
-Find our class page at: https://piazza.com/upenn/spring2022/musa650/home
+Thursday from 8:30AM to 11:30PM
 
 ### Contact Info
 
 - **Instructor**: Guray Erus, guray.erus@pennmedicine.upenn.edu
-- **Teaching Assistant**: Mikhail Hayhoe, m.hayhoe@icloud.com
+- **Teaching Assistant**: Vikas Bommineni, vikas.bommineni@pennmedicine.upenn.edu
 
 ### Office hours
 
-**Guray Erus**:
+- **Instructor**: Friday 3PM to 5PM on Zoom 
 
-- Tue 5:30PM to 7:30PM (Online)
-
-**Mikhail Hayhoe**:
-
-- Tue, Thu 12PM to 1AM (Online)
+Join Zoom Meeting
+https://pennmedicine.zoom.us/j/98465605536?pwd=aTNHMHVIZEowWHJoeTRubDZEQytCdz09
+Meeting ID: 984 6560 5536
+Passcode: MUSA650
 
 ### Course Websites
 
-- GitHub: https://github.com/MUSA-650
-- Piazza: https://piazza.com/upenn/spring2022/musa650/home
+- GitHub: https://github.com/MUSA-650/MUSA-650_Spring2023
+- Canvas: https://canvas.upenn.edu/courses/1704993 
 
 ## Course Description
 
@@ -47,13 +39,13 @@ The main learning goal of this class is to provide students essential knowledge 
 
 ## Grading: 
 
-The grading breakdown is as follows: 50% for homework, 40% for project and 10% for participation. Homework and project grade is not directly linked to accuracy of the final applications. Multiple factors, including data organization, model selection and presentation of the results will be evaluated.
+The grading breakdown is as follows: 40% for homework (4HW), 30% for project (1 PRJ), 20% for participation and %10 for final quiz. Homework and projects grade are not directly linked to accuracy of the final applications. Multiple factors, including data organization, model selection and presentation of the results will be evaluated.
 
-Homework assignments will involve implementation of machine learning applications using toy datasets provided by the instructor. Homework is assigned before the close of each class and is due at the end of the following week's class. Late homework will be accepted but penalized. Students are encouraged to work in groups, but they must submit a homework assignment that is uniquely theirs.
+Homework assignments will involve implementation of machine learning applications using toy datasets provided by the instructor. Homework is assigned before the end of a class and is due at the end of the following week's class (unless indicated otherwise). Late homework will be accepted but penalized. Students are encouraged to work in groups, but they must submit a homework assignment that is uniquely theirs.
 
 For the term project, students are expected to make their own research to select a machine learning problem in remote sensing, collect and organize their datasets, and implement their solution, working in groups or individually.
 
-Students are encouraged to ask and answer questions on Piazza. Participation grade is a function of both in-class and Piazza participation.
+Students are encouraged to ask and answer questions. Participation grade is a function of both in-class and out-of-class participation.
 
 ## Software
 
@@ -61,21 +53,20 @@ This course relies on use of Python and various related packages. The class will
 
 ## Schedule
 
-| Class #                | Date   | Topic                                                                              | Homework                                                              |
-| ---------------------- | ------ | ---------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
-| Week 1                 | Jan 12 | Overview of remote sensing and satellite imagery appications | Assign HW #1 |
-| Week 2                 | Feb 24 | Fundamentals of machine learning from a remote sensing perspective | |
-| Week 3                 | Jan 31  | Data preparation: imaging feature extraction, visualization, normalization, data harmonization | Assign HW #2 |
-| Week 4                 | Feb 7 | Dimensionality reduction and unsupervised learning |  |
-| Week 5                 | Feb 14 | Supervised learning for land cover classification, Part 1: training, cross-validation, method and model selection, parameter optimization | Assign HW #3 |
-| Week 6                 | Feb 21 | Supervised learning for land cover classification, Part 2: validation, evaluation, multi-class classification |  |
-| Week 7                 | Feb 28 | Ensemble methods in machine learning. Case studies: DSTL and EuroSat challenges | Assign HW #4 |
-| **Spring Break**       | Mar 7 |  | |
-| Week 8                 | Mar 14 | Fundamentals of deep learning | Assign HW #5 |
-| Week 9                 | Mar 21 | Recent advances in deep learning: literature review and paper discussion |  |
-| Week 10                | Mar 28  | Convolutional neural networks for image classification; UNet architecture for semantic segmentation  | Assign HW #6 |
-| Week 11                | Apr 4 | Case studies: DSTL and EuroSat challenges revisited |  Proposals for final project |
-| Week 12                | Apr 11 | Case study: predictive modeling using deep learning |  |
-| Week 13                | Apr 18 | Big data and machine learning: techniques, tools, challenges, future directions | |
-| Week 14                | Apr 25 | Project reviews | |
+| Class #                | Topic                            | 
+| ---------------------- | ---------------------------------| 
+| Week 1                 | Overview of remote sensing and satellite imagery appications | |
+| Week 2                 | Fundamentals of machine learning from a remote sensing perspective | |
+| Week 3                 | Data preparation: imaging feature extraction, visualization, normalization, data harmonization |  |
+| Week 4                 | Dimensionality reduction and unsupervised learning |  |
+| Week 5                 | Supervised learning for land cover classification, Part 1: training, cross-validation, method and model selection, parameter optimization |  |
+| Week 6                 | Supervised learning for land cover classification, Part 2: validation, evaluation, multi-class classification |  |
+| Week 7                 | Ensemble methods in machine learning. Case studies: DSTL and EuroSat challenges |  |
+| Week 8                 | Fundamentals of deep learning |  |
+| Week 9                 | Recent advances in deep learning: literature review and paper discussion |  |
+| Week 10                | Convolutional neural networks for image classification; UNet architecture for semantic segmentation  |  |
+| Week 11                | Case studies: DSTL and EuroSat challenges revisited |   |
+| Week 12                | Case study: predictive modeling using deep learning |  |
+| Week 13                | Big data and machine learning: techniques, tools, challenges, future directions | |
+| Week 14                | Project reviews | 
 
