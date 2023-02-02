@@ -18,7 +18,11 @@ This repository contains:
 - Run the notebook (!!! you may need to edit the path to data)
 
 ### Articles of the week:
+
 https://www.nature.com/articles/s41597-023-01929-2
+
 https://github.com/Doodleverse/dash_doodler
+
 https://dataconomy.com/2023/01/stock-prediction-machine-learning/
+
 https://thinkml.ai/five-biggest-failures-of-ai-projects-reason-to-fail/
