@@ -1,8 +1,6 @@
 # MUSA 650: Machine Learning in Remote Sensing
 
-## Week4: Supervised learning, bias variance threadoff, model complexity, PCA
-
-This repository contains:
+## Week6: This repository contains:
 
 - [A visual intro to supervised learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1)
 - [Bias and variance](http://www.r2d3.us/visual-intro-to-machine-learning-part-2)
