@@ -8,6 +8,7 @@ This repository contains:
 - [Convolutional Neural Networks](DLBasics_SimpleCNN.ipynb)
 - [Convolution explained](https://www.youtube.com/watch?v=B-M5q51U8SM&ab_channel=BrandonRohrer)
 - [Max pooling explained](https://www.youtube.com/watch?v=8oOgPUO-TBY&ab_channel=DeepLearningAI)
+- [CNN Application](DL_Application_Planesnet_CNN.ipynb)
 - [Keras vs PyTorch](https://www.kaggle.com/code/utcarshagrawal/keras-vs-pytorch-a-perfect-guide/notebook)
 - [Setting up your PC for DL - Ubuntu](https://mlwhiz.com/blog/2020/06/06/dlrig)
 - [Setting up your PC for DL - Windows](https://rsandstroem.github.io/gpuDeepLearningWindows.html)
