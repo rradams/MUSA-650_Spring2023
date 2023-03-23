@@ -16,4 +16,5 @@ dependencies:
   - tensorflow
   - pydot
   - graphviz
+  - scikit-image
 
