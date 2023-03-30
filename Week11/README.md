@@ -12,7 +12,8 @@ This repository contains:
 - [Dropout and batch normalization](dropout_and_batch_normalization.ipynb)
 - [Semantic segmentation using UNet](https://towardsdatascience.com/understanding-semantic-segmentation-with-unet-6be4f42d4b47)
 - [UNet example](https://towardsdatascience.com/unet-line-by-line-explanation-9b191c76baf5)
-Data for the notebooks is in:
+
+Datasets for the notebooks are in:
 
     https://drive.google.com/drive/u/0/folders/10HpS26ZPhUXaJ8FrEMuUD01-aSjoTfC7
 
