@@ -1,6 +1,6 @@
 # MUSA 650: Machine Learning in Remote Sensing
 
-## Week10: Convolutional Neural Networks (CNNs)
+## Week11: DL Applications
 
 This repository contains:
 
@@ -10,7 +10,8 @@ This repository contains:
 - [Keras vs PyTorch](https://www.kaggle.com/code/utcarshagrawal/keras-vs-pytorch-a-perfect-guide/notebook)
 - [Autoencoders](DL_Autoencoders.ipynb)
 - [Dropout and batch normalization](dropout_and_batch_normalization.ipynb)
-
+- [Semantic segmentation using UNet](https://towardsdatascience.com/understanding-semantic-segmentation-with-unet-6be4f42d4b47)
+- [UNet example](https://towardsdatascience.com/unet-line-by-line-explanation-9b191c76baf5)
 Data for the notebooks is in:
 
     https://drive.google.com/drive/u/0/folders/10HpS26ZPhUXaJ8FrEMuUD01-aSjoTfC7
