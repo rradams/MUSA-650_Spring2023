@@ -11,7 +11,7 @@ We will learn transfer learning, a technique used for adapting a pre-trained mod
 - [Other types of DL models, Siamese Net](DL_SiameseNet_MNIST.ipynb)
 - [Generative Adverserial Networks](https://affinelayer.com/pix2pix)
 - [Validation vs Testing](ValidationVsTest.pdf)
-- [Ways of avoiding overfitting and accelerating convergence to a solution](dropout-and-batch-normalization_editGE.ipynb)
+- [Ways of avoiding overfitting and accelerating convergence to a solution](dropout-and-batch-normalization.ipynb)
 - [Tensorflow Resources](https://www.tensorflow.org/resources/tools)
 - [TensorBoard - Presentation and example](https://www.tensorflow.org/tensorboard/get_started)
 - [TensorBoard - A gentle tutorial](https://www.youtube.com/watch?v=qEQ-_EId-D0)
