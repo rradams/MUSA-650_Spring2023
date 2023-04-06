@@ -24,6 +24,5 @@ This is a practical session. Please be ready to run the code on your own
 computers during and/or after the class. More background information will follow
 in next classes!
 
-### Paper of the week:
- https://www.frontiersin.org/articles/10.3389/frai.2020.534696/full
- 
+### Link of the week:
+https://www.microsoft.com/en-us/research/project/geospatial-machine-learning 
