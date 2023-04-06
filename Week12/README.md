@@ -7,12 +7,9 @@ We will learn transfer learning, a technique used for adapting a pre-trained mod
 - [Transfer Learning - Using pre-trained models](https://neptune.ai/blog/transfer-learning-guide-examples-for-images-and-text-in-keras)
 - [Transfer learning, example implementation](DL_TransferLearning.ipynb)
 - [Other types of DL models, Auto-encoders](DL_Autoencoders.ipynb)
-- [Other types of DL models, Style Transfer](https://deepart.io)
+- [Other types of DL models, Style Transfer](https://blog.tensorflow.org/2018/08/neural-style-transfer-creating-art-with-deep-learning.html)
 - [Other types of DL models, Siamese Net](DL_SiameseNet_MNIST.ipynb)
-- [Generative Adverserial Networks](https://phillipi.github.io/pix2pix/)
-
-  http://slazebni.cs.illinois.edu/spring17/lec11_gan.pdf
-
+- [Generative Adverserial Networks](https://affinelayer.com/pix2pix)
 - [Validation vs Testing](ValidationVsTest.pdf)
 - [Ways of avoiding overfitting and accelerating convergence to a solution](dropout-and-batch-normalization_editGE.ipynb)
 - [Tensorflow Resources](https://www.tensorflow.org/resources/tools)
