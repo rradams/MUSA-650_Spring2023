@@ -13,4 +13,4 @@ This repository contains:
 - [Vision Transformers in Remote Sensing](https://ai.googleblog.com/2020/12/transformers-for-image-recognition-at.html)
 - [Current Trends in Deep Learning for Earth Observation](https://arxiv.org/pdf/2207.07189.pdf)
 
-Thank you all for a great Spring term!
+Thank you all for your participation!
